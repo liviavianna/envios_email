@@ -3,8 +3,8 @@ import ssl
 import smtplib
 
 meu_email = "livia.vianna8@gmail.com"
-senha_gerada = "" #sua senha
-destinatario_email = "" #email destinatario
+senha_gerada = "jzdfixtyntogowuz"
+destinatario_email = "vianna.alberto@gmail.com"
 assunto = "Testando Python"
 body = """
 Teste
