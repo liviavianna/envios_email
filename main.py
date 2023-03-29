@@ -2,9 +2,9 @@ from email.message import EmailMessage
 import ssl
 import smtplib
 
-meu_email = "livia.vianna8@gmail.com"
-senha_gerada = "jzdfixtyntogowuz"
-destinatario_email = "vianna.alberto@gmail.com"
+meu_email = ""
+senha_gerada = ""
+destinatario_email = ""
 assunto = "Testando Python"
 body = """
 Teste
